@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "nike1.png",
+      "image": "images/nike1.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
