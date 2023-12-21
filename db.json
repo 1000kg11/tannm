@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1.png",
+      "image": "nike1.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
