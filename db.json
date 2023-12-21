@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "Wild Berry",
       "image": "images/nike1.png",
       "category": "mains",
       "label": "Hot",
@@ -12,33 +12,33 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "name": "Air Force 1",
+      "image": "images/nike2.png",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": " Trainer-style technical travel shoe. The full suede leather upper has a durable NosiLife mesh collar for reliable anti-insect action, while the fully waterproof construction means you can safely negotiate puddles. The Vibram outsole and EVA midsole offer a grippy, super-comfortable experience."
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "name": "Nike Cosmic",
+      "image": "images/nike3.png",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "It might be impractical to fight crime in heels, but that logic does not extend to these fabulous shoes. Sure geeky sneakers are good for every day use, but sometimes a girl needs a little glamour."
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
+      "name": "Retro High",
+      "image": "images/nike4.png",
       "category": "dessert",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Michael Jordan's famous first game shoe is at the heart of sneaker culture. This throwback version of the Air Jordan 1 Low captures the look of the original with leather overlays, crisp details and classic logos."
     }
   ],
   "comments": [
