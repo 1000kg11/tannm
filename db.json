@@ -206,12 +206,12 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "name": "Air Force 1",
+      "image": "images/nike2.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+      "description": "Trainer-style technical travel shoe. The full suede leather upper has a durable NosiLife mesh collar for reliable anti-insect action, while the fully waterproof construction means you can safely negotiate puddles. The Vibram outsole and EVA midsole offer a grippy, super-comfortable experience"
     }
   ],
   "leaders": [
@@ -244,12 +244,12 @@
     },
     {
       "id": 3,
-      "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "name": "Nike Cosmic",
+      "image": "images/nike3.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
-      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+      "description": "It might be impractical to fight crime in heels, but that logic does not extend to these fabulous shoes. Sure geeky sneakers are good for every day use, but sometimes a girl needs a little glamour."
     }
   ],
   "feedback": [
